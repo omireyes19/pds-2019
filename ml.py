@@ -5,3 +5,4 @@ def clean_data():
 def store_data():
 
 def run_ml_pipeline():
+    print("Hola a todos")
