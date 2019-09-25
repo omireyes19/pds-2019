@@ -1,8 +1,4 @@
-import pandas as pd
-
-def load_data(filename):
-    data = pd.read_csv(filename)
-    return data
+def load_data():
 
 def clean_data():
 print(clean_data)
