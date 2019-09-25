@@ -1,6 +1,7 @@
 def load_data():
 
 def clean_data():
+print(clean_data)
 
 def store_data():
  print("Hola equipo.")
