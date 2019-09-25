@@ -5,7 +5,6 @@ def load_data(filename):
     return data
 
 def clean_data():
-print(clean_data)
 
 def store_data():
 
